@@ -1,0 +1,11 @@
+.event-card {
+  background-color: white;
+  padding: 30px;
+  border-radius: 12px;
+  width: 50%;
+  margin: 10px;
+  /* border: 1px solid grey;
+  border-radius: 2px;
+  height: 100px;
+  width: 200px; */
+}
